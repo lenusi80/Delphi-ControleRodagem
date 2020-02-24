@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/12/02 08:33:54.250.pas,C:\Ford\Unit1.pas=C:\Ford\UGrupos.pas</Transaction>
+    <Transaction>2006/12/02 08:33:54.250.dfm,C:\Ford\Unit1.dfm=C:\Ford\UGrupos.dfm</Transaction>
+    <Transaction>2006/12/02 18:31:32.640.pas,C:\Ford\Unit1.pas=C:\Ford\UVerificaGrupoFolga.pas</Transaction>
+    <Transaction>2006/12/07 17:28:06.156.pas,C:\Ford\Unit1.pas=C:\Ford\UParadas.pas</Transaction>
+    <Transaction>2006/12/07 17:28:06.156.dfm,C:\Ford\Unit1.dfm=C:\Ford\UParadas.dfm</Transaction>
+    <Transaction>2006/12/11 19:32:51.015.pas,C:\Ford\Unit1.pas=C:\Ford\URotas.pas</Transaction>
+    <Transaction>2006/12/11 19:32:51.015.dfm,C:\Ford\Unit1.dfm=C:\Ford\URotas.dfm</Transaction>
+    <Transaction>2006/12/26 17:20:25.281.pas,C:\Ford\Unit1.pas=C:\Ford\UMotoristas.pas</Transaction>
+    <Transaction>2006/12/26 17:20:25.281.dfm,C:\Ford\Unit1.dfm=C:\Ford\UMotoristas.dfm</Transaction>
+    <Transaction>2006/12/29 17:08:17.109.pas,C:\Ford\Unit1.pas=C:\Ford\UVeiculos.pas</Transaction>
+    <Transaction>2006/12/29 17:08:17.109.dfm,C:\Ford\Unit1.dfm=C:\Ford\UVeiculos.dfm</Transaction>
+    <Transaction>2006/12/29 17:30:23.281.pas,C:\Ford\Unit1.pas=C:\Ford\UControladores.pas</Transaction>
+    <Transaction>2006/12/29 17:30:23.281.dfm,C:\Ford\Unit1.dfm=C:\Ford\UControladores.dfm</Transaction>
+    <Transaction>2007/01/11 18:53:59.515.pas,C:\Ford\Unit1.pas=C:\Ford\UGerarEscala.pas</Transaction>
+    <Transaction>2007/01/11 19:14:35.656.pas,C:\Ford\Unit1.pas=C:\Ford\UTeste.pas</Transaction>
+    <Transaction>2007/01/11 19:14:35.656.dfm,C:\Ford\Unit1.dfm=C:\Ford\UTeste.dfm</Transaction>
+    <Transaction>2007/01/15 10:43:37.484.pas,C:\Ford\Unit1.pas=C:\Ford\UOrdemVeiculos.pas</Transaction>
+    <Transaction>2007/01/17 20:45:21.406.pas,C:\Ford\Unit1.pas=C:\Ford\UProgrAusencias.pas</Transaction>
+    <Transaction>2007/01/17 20:45:21.406.dfm,C:\Ford\Unit1.dfm=C:\Ford\UProgrAusencias.dfm</Transaction>
+    <Transaction>2007/01/17 21:10:42.390.pas,C:\Ford\Unit1.pas=C:\Ford\UProgrFerias.pas</Transaction>
+    <Transaction>2007/01/17 21:10:42.390.dfm,C:\Ford\Unit1.dfm=C:\Ford\UProgrFerias.dfm</Transaction>
+    <Transaction>2007/01/24 11:50:35.609.pas,C:\Ford\Unit1.pas=C:\Ford\UESCALAESPECIAL.pas</Transaction>
+    <Transaction>2007/01/24 11:50:35.609.dfm,C:\Ford\Unit1.dfm=C:\Ford\UESCALAESPECIAL.dfm</Transaction>
+    <Transaction>2007/02/25 01:04:33.171.pas,C:\Ford\Unit1.pas=C:\Ford\UDescricaoPadara.pas</Transaction>
+    <Transaction>2007/02/25 01:04:33.171.dfm,C:\Ford\Unit1.dfm=C:\Ford\UDescricaoPadara.dfm</Transaction>
+    <Transaction>2007/02/25 01:12:44.953.pas,C:\Ford\Unit1.pas=C:\Ford\UControlaHistoricoVeiculos.pas</Transaction>
+    <Transaction>2007/03/19 17:35:04.812.pas,C:\Ford\Unit1.pas=C:\Ford\UDM2.pas</Transaction>
+    <Transaction>2007/03/19 17:35:04.812.dfm,C:\Ford\Unit1.dfm=C:\Ford\UDM2.dfm</Transaction>
+    <Transaction>2007/03/31 00:08:33.609.pas,C:\Ford\Unit1.pas=C:\Ford\URelatorios.pas</Transaction>
+    <Transaction>2007/03/31 00:08:33.609.dfm,C:\Ford\Unit1.dfm=C:\Ford\URelatorios.dfm</Transaction>
+    <Transaction>2007/03/31 00:50:59.890.pas,E:\PROGRAMAÇÃO\2 Exemplos\Calendario\UFrmCalendario.pas=C:\Ford\UFrmCalendario.pas</Transaction>
+    <Transaction>2007/03/31 00:50:59.890.dfm,E:\PROGRAMAÇÃO\2 Exemplos\Calendario\UFrmCalendario.dfm=C:\Ford\UFrmCalendario.dfm</Transaction>
+    <Transaction>2007/04/02 19:11:16.937.pas,C:\Ford\Unit1.pas=C:\Ford\UCorFundo.pas</Transaction>
+    <Transaction>2007/04/02 19:11:16.937.dfm,C:\Ford\Unit1.dfm=C:\Ford\UCorFundo.dfm</Transaction>
+    <Transaction>2007/04/22 17:44:51.796.pas,C:\Ford\Unit1.pas=C:\Ford\Ubackup.pas</Transaction>
+    <Transaction>2007/04/22 17:44:51.796.dfm,C:\Ford\Unit1.dfm=C:\Ford\Ubackup.dfm</Transaction>
+    <Transaction>2007/04/28 13:56:08.875.pas,C:\Ford\Unit1.pas=C:\Ford\ULogin.pas</Transaction>
+    <Transaction>2007/04/28 13:56:08.875.dfm,C:\Ford\Unit1.dfm=C:\Ford\ULogin.dfm</Transaction>
+    <Transaction>2007/04/28 17:54:20.640.pas,C:\Ford\Unit1.pas=C:\Ford\UUsers.pas</Transaction>
+    <Transaction>2007/04/28 17:54:20.640.dfm,C:\Ford\Unit1.dfm=C:\Ford\UUsers.dfm</Transaction>
+    <Transaction>2007/05/06 14:06:28.593.pas,C:\Ford\Unit1.pas=C:\Ford\UMenus.pas</Transaction>
+    <Transaction>2007/05/07 20:17:47.187.pas,C:\Ford\Unit1.pas=C:\Ford\UConfigBD.pas</Transaction>
+    <Transaction>2007/05/07 20:17:47.187.dfm,C:\Ford\Unit1.dfm=C:\Ford\UConfigBD.dfm</Transaction>
+    <Transaction>2007/05/10 18:10:32.953.pas,C:\Ford\Unit1.pas=C:\Ford\URelResumoVeic.pas</Transaction>
+    <Transaction>2007/05/10 18:10:32.953.dfm,C:\Ford\Unit1.dfm=C:\Ford\URelResumoVeic.dfm</Transaction>
+    <Transaction>2007/05/13 14:53:45.140.pas,C:\Ford\Unit1.pas=C:\Ford\UHistVeic.pas</Transaction>
+    <Transaction>2007/05/13 14:53:45.140.dfm,C:\Ford\Unit1.dfm=C:\Ford\UHistVeic.dfm</Transaction>
+    <Transaction>2007/06/14 22:05:09.281.pas,C:\Ford\UOrdemVeiculos.pas=</Transaction>
+    <Transaction>2007/06/14 22:08:07.421.pas,C:\Ford\UControlaHistoricoVeiculos.pas=</Transaction>
+    <Transaction>2007/06/14 22:23:17.031.pas,C:\Ford\UDescricaoPadara.pas=</Transaction>
+    <Transaction>2007/06/14 22:23:17.031.dfm,C:\Ford\UDescricaoPadara.dfm=</Transaction>
+    <Transaction>2007/06/14 22:30:37.296.pas,C:\Ford\Unit1.pas=C:\Ford\UAdicionaVeiculos.pas</Transaction>
+  </Transactions>
+</BorlandProject>

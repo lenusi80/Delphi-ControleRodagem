@@ -1,0 +1,14 @@
+procedure TForm1.Button1Click(Sender: TObject);
+
+var
+  Present: TDateTime;
+  Year, Month, Day, Hour, Min, Sec, MSec: Word;
+ begin
+  Present:= Now;
+  DecodeDate(Present, Year, Month, Day);
+  Label1.Caption := 'Today is Day ' + IntToStr(Day) + ' of Month '
+    + IntToStr(Month) + ' of Year ' + IntToStr(Year);
+  DecodeTime(Present, Hour, Min, Sec, MSec);
+  Label2.Caption := 'The time is Minute ' + IntToStr(Min) + ' of Hour '
+    + IntToStr(Hour);
+end;
